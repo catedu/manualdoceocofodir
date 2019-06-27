@@ -2,7 +2,7 @@
 
 ## Introducción
 
-* [Manual del nuevo Doceo](README.md)
+* [Doceo para la Coordinación de la Formación y la Dirección](README.md)
 * [Doceo. Gestión de la formación del profesorado](0_doceo_30_gestion_de_la_formacion_del_profesorado/README.md)
   * [¿Qué es?](0_doceo_30_gestion_de_la_formacion_del_profesorado/que_es.md)
   * [¿Cómo se accede?](0_doceo_30_gestion_de_la_formacion_del_profesorado/como_se_accede.md)
