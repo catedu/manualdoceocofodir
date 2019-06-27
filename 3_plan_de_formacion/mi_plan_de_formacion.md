@@ -1,0 +1,1 @@
+{% include "git+https://github.com/catedu/manualdoceo.git/3_plan_de_formacion/mi_plan_de_formacion.md" %}
