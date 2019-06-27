@@ -26,13 +26,6 @@
 
 ## Dirección y Coordinación de la Formación
 
-* [Coordinación de la formación. COFOs y Dirección..](3_plan_de_formacion/README.md)
-* [Gestión de la plantilla del centro.](3_plan_de_formacion/gestion-de-la-plantilla-del-centro.md)
-* [Plan de formación](3_plan_de_formacion/mi_plan_de_formacion.md)
-  * [Actividades del Plan](3_plan_de_formacion/actividades-del-plan.md)
-  * [Proyecto de Formación de Centro.](3_plan_de_formacion/proyecto-de-formacion-de-centro.md)
-  * [Valoración](3_plan_de_formacion/valoracion.md)
-  * [Actividades no gestionadas por Doceo](3_plan_de_formacion/actividades-no-gestionadas-por-doceo.md)
 * [Coordinación de actividades. COFO](3_plan_de_formacion/coordinacion-de-actividades.md)
   * [Coordinación de actividades.](3_plan_de_formacion/coordinacion-de-actividades/coordinacion-de-actividades.md)
   * [Consultar actividad](3_plan_de_formacion/coordinacion-de-actividades/consultar-actividad.md)
@@ -41,5 +34,11 @@
   * [Sesiones](3_plan_de_formacion/coordinacion-de-actividades/sesiones.md)
   * [Repositorios](3_plan_de_formacion/coordinacion-de-actividades/repositorios.md)
   * [Comentarios](3_plan_de_formacion/coordinacion-de-actividades/comentarios.md)
+* [Gestión de la plantilla del centro.](3_plan_de_formacion/gestion-de-la-plantilla-del-centro.md)
+* [Plan de formación](3_plan_de_formacion/mi_plan_de_formacion.md)
+  * [Actividades del Plan](3_plan_de_formacion/actividades-del-plan.md)
+  * [Proyecto de Formación de Centro.](3_plan_de_formacion/proyecto-de-formacion-de-centro.md)
+  * [Valoración](3_plan_de_formacion/valoracion.md)
+  * [Actividades no gestionadas por Doceo](3_plan_de_formacion/actividades-no-gestionadas-por-doceo.md)
 * [Nueva Actividad](3_plan_de_formacion/nueva-actividad.md)
 
