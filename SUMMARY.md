@@ -41,3 +41,6 @@
   * [Actividades no gestionadas por Doceo](3_plan_de_formacion/actividades-no-gestionadas-por-doceo.md)
 * [Nueva Actividad](3_plan_de_formacion/nueva-actividad.md)
 
+## Créditos
+
+* [Créditos](creditos.md)
