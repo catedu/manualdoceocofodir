@@ -35,7 +35,6 @@
   * [Valoración](3_plan_de_formacion/valoracion.md)
   * [Actividades no gestionadas por Doceo](3_plan_de_formacion/actividades-no-gestionadas-por-doceo.md)
 * [Coordinación de actividades. COFO](3_plan_de_formacion/coordinacion-de-actividades.md)
-  * [Coordinación de actividades.](3_plan_de_formacion/coordinacion-de-actividades/coordinacion-de-actividades.md)
   * [Consultar actividad](3_plan_de_formacion/coordinacion-de-actividades/consultar-actividad.md)
   * [Editar actividad](3_plan_de_formacion/coordinacion-de-actividades/editar-actividad.md)
   * [Gestión de participantes: Inscripción y admisión.](3_plan_de_formacion/coordinacion-de-actividades/gestion-de-participantes-inscripcion-y-admision.md)
